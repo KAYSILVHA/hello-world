@@ -6,4 +6,4 @@
 
 ```console.log('Hello World!')```
 
-<p>Este foi um comando simples para escrever um Hello World no terminal</p>
+<p>Este foi um comando simples para escrever um Hello World no terminal.</p>
